@@ -1,0 +1,318 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="bRwtunXLcIvQXi9Kr80P">
+    <mxGraphModel dx="2020" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-5" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="深圳" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-6" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="香港" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-7" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="印尼" vertex="1">
+          <mxGeometry height="80" width="160" x="1040" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-10" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="刷先进先出关系" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-12" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-114" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;align=center;" value="是否国内账套" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-28" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="审核时间先进先出" vertex="1">
+          <mxGeometry height="80" width="160" x="1040" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="720" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-26" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="使用Fob先进先出关系" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-30" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="1、出入库单据、日期、类型&lt;div&gt;2、商品、仓库&lt;/div&gt;&lt;div&gt;3、关联交易信息（在途单）&lt;/div&gt;&lt;div&gt;4、月份&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;5、价格是空的&lt;/span&gt;&lt;/div&gt;&lt;div&gt;6、先进先出匹配数量&lt;/div&gt;&lt;div&gt;7、结存数量&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="560" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-18" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N2ipvADz3Y1ER6z2oI6z-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="定时/手动按账套顺序处理价格并且生成单据价格数据表（用于毛利、收发存表、在途表等等）" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-52" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="锁住下个月的数据&lt;div&gt;不&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;进行先进先出&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 255, 255));&quot;&gt;（全账套）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-106" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-107" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-108" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="-439.94" />
+              <mxPoint x="1080" y="-439.94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-109" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="-439.94" />
+              <mxPoint x="240" y="-439.94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="40" width="160" x="560" y="-560" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-47" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-48" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-49" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="当前关账月份（只处理关账月份的数据，后面月份的数据hold不允许进行先进先出，单据日期是当前关账日期下个月的数据）" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-56" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="删除当月先进先出价格&lt;div&gt;单据价格数据（毛利表）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;（全账套）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-20" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="按账套顺序处理价格并且生成单据价格数据表（用于毛利、收发存表、在途表等等）" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-90" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-22" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="N2ipvADz3Y1ER6z2oI6z-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="1920" />
+              <mxPoint x="920" y="2220" />
+            </Array>
+            <mxPoint x="730" y="2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-84" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="ERP是否关账后同步" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="生成存货加价表并同步给金蝶" vertex="1">
+          <mxGeometry height="30" width="220" x="1090" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-6" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N2ipvADz3Y1ER6z2oI6z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="40" width="160" x="560" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-110" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="-200" />
+              <mxPoint x="640" y="-200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="按账套8月临时数据表（单据号、日期、商品、仓库、数量、关联校验主单ID、子单ID等）" vertex="1">
+          <mxGeometry height="80" width="160" x="160" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-111" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="-200" />
+              <mxPoint x="640" y="-200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="按账套9月临时数据表（单据号、日期、商品、仓库、数量、关联校验主单ID、子单ID等）" vertex="1">
+          <mxGeometry height="80" width="160" x="440" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-112" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="-200" />
+              <mxPoint x="640" y="-200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="按账套10月临时数据表（单据号、日期、商品、仓库、数量、关联校验主单ID、子单ID等）" vertex="1">
+          <mxGeometry height="80" width="160" x="720" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-113" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="-200" />
+              <mxPoint x="640" y="-200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="按账套11月临时数据表（单据号、日期、商品、仓库、数量、关联校验主单ID、子单ID等）" vertex="1">
+          <mxGeometry height="80" width="160" x="1000" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-115" parent="1" style="shape=wedgeCallout;whiteSpace=wrap;html=1;" value="出现弃审将涉及的商品信息记录（每天完成10点处理并且锁住先进先出的处理）&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;（单账套）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="190" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-116" parent="1" style="shape=wedgeCallout;whiteSpace=wrap;html=1;" value="出现弃审将涉及的商品信息记录（每天完成10点处理并且锁住先进先出的处理）&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;（单账套）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="1150" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-117" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.05;" value="表名bill_temp_107_2611" vertex="1">
+          <mxGeometry height="120" width="220" x="1145" y="-480" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="管报先进先出" vertex="1">
+          <mxGeometry height="30" width="160" x="560" y="-590" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="处理价格与首次入库日期&lt;div&gt;原始采购价、费用&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="560" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-7" edge="1" parent="1" source="N2ipvADz3Y1ER6z2oI6z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKzJFq6wF4t3TN6eCtUf-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-8" edge="1" parent="1" source="N2ipvADz3Y1ER6z2oI6z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="ERP是否关账后同步" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-11" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="HKzJFq6wF4t3TN6eCtUf-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="1600" />
+            </Array>
+            <mxPoint x="920" y="1480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="锁住当月的数据&lt;div&gt;不进行先进先出&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;（全账套）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="840" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="720" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-13" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" value="有一个表格记录关账情况" vertex="1">
+          <mxGeometry height="80" width="160" x="390" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-23" edge="1" parent="1" source="HKzJFq6wF4t3TN6eCtUf-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N2ipvADz3Y1ER6z2oI6z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKzJFq6wF4t3TN6eCtUf-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="生成月结数据（结存库存、结存金额）" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结束" vertex="1">
+          <mxGeometry height="40" width="160" x="560" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结束" vertex="1">
+          <mxGeometry height="40" width="160" x="560" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-19" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" value="有一个表格记录关账情况" vertex="1">
+          <mxGeometry height="80" width="160" x="390" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-24" edge="1" parent="1" source="N2ipvADz3Y1ER6z2oI6z-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N2ipvADz3Y1ER6z2oI6z-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="处理(期间存货加价表)" vertex="1">
+          <mxGeometry height="80" width="160" x="1120" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-26" edge="1" parent="1" source="N2ipvADz3Y1ER6z2oI6z-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N2ipvADz3Y1ER6z2oI6z-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="加工处理明细加价表&lt;div&gt;锁住先进先出与获取价格&lt;/div&gt;&lt;div&gt;（全账套）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1120" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-35" edge="1" parent="1" source="N2ipvADz3Y1ER6z2oI6z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N2ipvADz3Y1ER6z2oI6z-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="同步给金蝶" vertex="1">
+          <mxGeometry height="80" width="160" x="1120" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-32" edge="1" parent="1" source="N2ipvADz3Y1ER6z2oI6z-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N2ipvADz3Y1ER6z2oI6z-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="40" width="160" x="1120" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结束" vertex="1">
+          <mxGeometry height="40" width="160" x="1120" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-39" edge="1" parent="1" source="N2ipvADz3Y1ER6z2oI6z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N2ipvADz3Y1ER6z2oI6z-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="40" width="160" x="560" y="-1000" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fob先进先出" vertex="1">
+          <mxGeometry height="40" width="160" x="560" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-41" edge="1" parent="1" source="N2ipvADz3Y1ER6z2oI6z-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="N2ipvADz3Y1ER6z2oI6z-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="1、排柜的按照指定关联&lt;div&gt;2、非排柜按照先进先出（弃审关系不重刷）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="560" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="N2ipvADz3Y1ER6z2oI6z-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结束" vertex="1">
+          <mxGeometry height="40" width="160" x="560" y="-720" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
